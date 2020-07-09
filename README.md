@@ -1,3 +1,6 @@
+<img src="https://github.com/rahul799/rahul799/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
+
+
 ### Hi there 👋 I'm Raghav
 
 <!--
@@ -13,7 +16,7 @@
 
 - 💬 Ask me about: **Full-Stack Web Development, Data Science, AI/ML, Cloud Computing**
 
-- 📫 How to reach me: [Drop a Mail](mailto:raghavkhullar16@gmail.com) or [Connect via LinkedIn](www.linkedin.com/in/raghav-khullar)
+- 📫 How to reach me: [Drop a Mail](mailto:raghavkhullar16@gmail.com), [Connect via LinkedIn](www.linkedin.com/in/raghav-khullar) or [Visit my Website](https://raghavk16.github.io/).
 
 - 😄 Pronouns: **He/Him**
 
