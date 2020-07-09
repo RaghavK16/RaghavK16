@@ -20,4 +20,4 @@
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Besides programming, I'm a technical writer, a melophile and love to cook.
