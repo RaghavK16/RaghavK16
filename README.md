@@ -1,4 +1,4 @@
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="alt text" width="100" height="100" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
 
 
 ### Hi there 👋 I'm Raghav
