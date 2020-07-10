@@ -1,10 +1,7 @@
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="Raghav Khullar" width="150" height="150" />
 
 
 ### Hi there 👋 I'm Raghav
-
-<!--
-**RaghavK16/RaghavK16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on: **Data Science, DSA**
 
