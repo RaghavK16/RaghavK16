@@ -17,7 +17,7 @@
 - 💬 Ask me about: **Technology, Content Writing, Music**
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/connect.gif" alt="Raghav Khullar" width="350" height="200" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
 
 - 📫 How to reach me: [Drop a Mail](mailto:raghavkhullar16@gmail.com), [Connect via LinkedIn](www.linkedin.com/in/raghav-khullar) or [Visit my Website](https://raghavk16.github.io/).
