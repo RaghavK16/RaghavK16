@@ -2,7 +2,11 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="Raghav Khullar" width="150" height="150" />
 </div>
 
-### Hi there 👋 I'm Raghav
+## Hi there 👋 I'm Raghav
+
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
+</div>
 
 - 🔭 I’m currently working on: **Data Science, DSA**
 
@@ -18,4 +22,4 @@
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact: Besides programming, I'm a technical writer, a melophile and love to cook.
+- ⚡ Fun fact: Besides programming, I'm a [technical writer](https://www.mindbrews.in/author/raghav-khullar/), a melophile and love to cook.
