@@ -2,24 +2,26 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="Raghav Khullar" width="150" height="150" />
 </div>
 
-## Hi there 👋 I'm Raghav
+# Hi there 👋 I'm Raghav
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
 </div>
 
-- 🔭 I’m currently working on: **Data Science, DSA**
+- 🔭 I’m currently working on: **Data Science, Full-Stack Web**
 
-- 🌱 I’m currently learning: **Neural Networks and Image Processing**
+- 🌱 I’m currently learning: **Advanced Neural Networks and Image Processing**
 
-- 👯 I’m looking to collaborate on: **Data Science and Analytics, Front-end Web Development**
+- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
-- 🤔 I’m looking for help with: **Blockchain, DSA**
+- 💬 Ask me about: **Technology, Content Writing, Music**
 
-- 💬 Ask me about: **Full-Stack Web Development, Data Science, AI/ML, Cloud Computing**
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/connect.gif" alt="Raghav Khullar" width="150" height="150" />
+</div>
 
 - 📫 How to reach me: [Drop a Mail](mailto:raghavkhullar16@gmail.com), [Connect via LinkedIn](www.linkedin.com/in/raghav-khullar) or [Visit my Website](https://raghavk16.github.io/).
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact: Besides programming, I'm a [technical writer](https://www.mindbrews.in/author/raghav-khullar/), a melophile and love to cook.
+- ⚡ Fun fact: Besides programming, I'm a [technical writer](https://www.mindbrews.in/author/raghav-khullar/), a melophile and love to cook
