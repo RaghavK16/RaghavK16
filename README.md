@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
-- 💬 Ask me about: **Technology, Content Writing, Music**
+- 💬 Ask me about: **Technology, Tech Content Writing, Music**
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
