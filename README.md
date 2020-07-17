@@ -2,8 +2,6 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="Raghav Khullar" width="150" height="150" />
 </div>
 
-[![HitCount](http://hits.dwyl.com/RaghavK16/RaghavK16.svg)](http://hits.dwyl.com/RaghavK16/RaghavK16)
-
 # Hi there 👋 I'm Raghav
 
 <div align="center">
