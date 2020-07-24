@@ -2,27 +2,22 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="Raghav Khullar" width="150" height="150" />
 </div>
 
-# Hi there 👋 I'm Raghav
-
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar" />
-</div>
-
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
 </div>
 
 - 🔭 I’m currently working on: **Data Science, Full-Stack Web**
 
 - 🌱 I’m currently learning: **Advanced Neural Networks and Image Processing**
 
+
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
+</div>
+
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
 - 💬 Ask me about: **Technology, Tech Content Writing, Music**
-
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
-</div>
 
 - 📫 How to reach me:
 
@@ -31,6 +26,9 @@
     * [**Connect via LinkedIn**](www.linkedin.com/in/raghav-khullar)
 
     * [**Visit my Website**](https://raghavk16.github.io/)
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+</div>
 
 - 😄 Pronouns: **He/Him**
 
