@@ -5,7 +5,7 @@
 # Hi there 👋 I'm Raghav
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar" width="150" height="150" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar" />
 </div>
 
 <div align="center">
