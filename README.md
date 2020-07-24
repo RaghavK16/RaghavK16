@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/namerec.gif" alt="Raghav Khullar" />
 </div>
 
 - 🔭 I’m currently working on: **Data Science, Full-Stack Web**
