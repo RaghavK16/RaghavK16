@@ -5,10 +5,9 @@
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar" />
 </div>
-
 - 🔭 I’m currently working on: **Data Science, Full-Stack Web**
 
-- 🌱 I’m currently learning: **Advanced Neural Networks and Image Processing**
+- 🌱 I’m currently learning: **Advanced Neural Networks, Digital Image Processing and Computer Vision**
 
 
 <div align="center">
@@ -17,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
-- 💬 Ask me about: **Technology, Tech Content Writing, Music**
+- 💬 Ask me about: **Technology, Technical Content Writing, Music and History**
 
 - 📫 How to reach me:
 
@@ -26,6 +25,7 @@
     * [**Connect via LinkedIn**](www.linkedin.com/in/raghav-khullar)
 
     * [**Visit my Website**](https://raghavk16.github.io/)
+    
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
