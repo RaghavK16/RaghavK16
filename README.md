@@ -5,6 +5,7 @@
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar" />
 </div>
+
 - 🔭 I’m currently working on: **Data Science, Full-Stack Web**
 
 - 🌱 I’m currently learning: **Advanced Neural Networks, Digital Image Processing and Computer Vision**
