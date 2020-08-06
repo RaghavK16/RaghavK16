@@ -6,7 +6,7 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar" />
 </div>
 
-- 🔭 I’m currently working on: **Data Science, Full-Stack Web**
+- 🔭 I’m currently working on: **Data Science, Full-Stack Web Dev**
 
 - 🌱 I’m currently learning: **Advanced Neural Networks, Digital Image Processing and Computer Vision**
 
@@ -18,6 +18,8 @@
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
 - 💬 Ask me about: **Technology, Technical Content Writing, Music and History**
+
+- 🤓 Active User: **GitHub, LinkedIn, Hackerrank**
 
 - 📫 How to reach me:
 
