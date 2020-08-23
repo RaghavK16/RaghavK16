@@ -25,7 +25,7 @@
 
     * [**Drop a Mail**](mailto:raghavkhullar16@gmail.com)
 
-    * [**Connect via LinkedIn**](www.linkedin.com/in/raghav-khullar)
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/raghav-khullar/)
 
     * [**Visit my Website**](https://raghavk16.github.io/)
     
