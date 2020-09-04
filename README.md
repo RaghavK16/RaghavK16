@@ -42,8 +42,8 @@
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact: 
+- ⚡ Fun Facts: 
 
     * Besides programming, I'm a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/), a **Melophile** and love to cook.
 
-    
+    * You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
