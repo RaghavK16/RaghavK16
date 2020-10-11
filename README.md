@@ -13,7 +13,7 @@
  <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/>
 </div>
 
-- 🙌 I'm currently looking for: **Full-Time SDE Opportunities**
+- 🙌 I'm currently looking for: **Full-Time SDE/Full-Stack Web Development/Data Science Job Opportunities**
 
 - 🔭 I’m currently working on: **Data Science, Full-Stack Web Dev**
 
