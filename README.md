@@ -16,7 +16,7 @@
 - 🙌 I'm currently looking for: **Full-Time SDE/Full-Stack Web Development/Data Science Job Opportunities**
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Raghav Khullar" width="500" height="300" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Raghav Khullar" width="400" height="250" />
 </div>
 
 - 🔭 I’m currently working on: **Data Science, Full-Stack Web Dev**
