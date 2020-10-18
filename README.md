@@ -25,7 +25,7 @@
 
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="250" height="250" />
 </div>
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
