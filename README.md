@@ -15,6 +15,10 @@
 
 - 🙌 I'm currently looking for: **Full-Time SDE/Full-Stack Web Development/Data Science Job Opportunities**
 
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Raghav Khullar" />
+</div>
+
 - 🔭 I’m currently working on: **Data Science, Full-Stack Web Dev**
 
 - 🌱 I’m currently learning: **Advanced Neural Networks, Digital Image Processing and Computer Vision**
