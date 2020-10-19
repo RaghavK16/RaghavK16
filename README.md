@@ -13,15 +13,15 @@
  <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/>
 </div>
 
-- 🙌 I'm currently looking for: **Full-Time SDE/Full-Stack Web Development/Data Science Job Opportunities**
+- 🙌 I'm currently looking for: **Full-Time SDE || Full-Stack Web Development || Data Science Job Opportunities**
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
 
-- 🔭 I’m currently working on: **Data Science, Full-Stack Web Dev**
+- 🔭 I’m currently working on: **Data Science || Full-Stack Web Dev**
 
-- 🌱 I’m currently learning: **Advanced Neural Networks, Digital Image Processing and Computer Vision**
+- 🌱 I’m currently learning: **Advanced Neural Networks || Digital Image Processing || Computer Vision**
 
 
 <div align="center">
@@ -30,9 +30,9 @@
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
-- 💬 Ask me about: **Technology, Technical Content Writing, Music and History**
+- 💬 Ask me about: **Technology || Technical Content Writing || Music || History**
 
-- 🤓 Active User: **GitHub, LinkedIn, Hackerrank**
+- 🤓 Active User at: **GitHub || LinkedIn || Hackerrank**
 
 - 📫 How to reach me:
 
@@ -50,8 +50,8 @@
 
 - ⚡ Fun Facts: 
 
-    * Besides programming, I'm a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/), a **Melophile** and love to cook.
+    * *Besides programming, I'm a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/), a **Melophile** and love to cook.*
 
-    * You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
+    * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
     
-    * If you're still reading, why not follow me ?? Let's Connect !!
+    * *If you're still reading, why not follow me ?? Let's Connect !!*
