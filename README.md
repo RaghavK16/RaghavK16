@@ -13,7 +13,7 @@
  <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/>
 </div>
 
-
+<br/>
 - 🙌 I'm currently looking for: **Full-Time SDE || Full-Stack Web Development || Data Science Job Opportunities**
 
 <div align="center">
