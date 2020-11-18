@@ -32,7 +32,7 @@
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
-- 💬 Ask me about: **Technology || Technical Content Writing || Music || History**
+- 💬 Ask me about: **Technology || Technical Content Writing || Music || Reading || History**
 
 - 🤓 Active User at: **GitHub || LinkedIn || Hackerrank**
 
