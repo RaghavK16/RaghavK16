@@ -18,7 +18,7 @@
 </div>
 
 <br/><br/>
-- 🙌 I'm currently looking for: **Full-Time SDE || Full-Stack Web Development || Data Science Job Opportunities**
+- 🙌 I'm currently looking for: **Software Engineering || Data Science/Engineering || Full-Stack Web Development Job Opportunities**
 <br/>
 
 <div align="center">
@@ -26,9 +26,9 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Data Science || Full-Stack Web Dev**
+- 🔭 I’m currently working on: **Data Analytics || Data Engineering || Full-Stack Web Dev**
 
-- 🌱 I’m currently learning: **Advanced Neural Networks || Digital Image Processing || Computer Vision**
+- 🌱 I’m currently learning: **All about Data Science and Engineering**
 
 
 <div align="center">
