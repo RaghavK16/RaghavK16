@@ -8,6 +8,7 @@
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar Typer" />
 </div>
+<br/>
 
 - ⌨️ Programming Languages I've used:
 
