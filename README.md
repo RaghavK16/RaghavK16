@@ -20,7 +20,7 @@
 <-->
 
 <br/>
-- 🙌 I'm currently open to: **Software Engineering || Data Engineering || Full-Stack Web Development Roles**
+- 🙌 I'm currently open to: **Software Engineering | Data Engineering | Full-Stack Web Development Roles**
 <br/><br/>
 
 <div align="center">
@@ -28,9 +28,9 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Data Engineering || Data Analytics || Full-Stack Web Dev**
+- 🔭 I’m currently working on: **Data Engineering | Data Analytics | Full-Stack Web Dev**
 
-- 🌱 I’m currently learning: **Big Data | Advanced SQL | Advanced Python | Data Engineering**
+- 🌱 I’m currently learning: **Big Data | Advanced SQL | Advanced Python | Data Engineering | Cloud**
 
 
 <div align="center">
@@ -39,7 +39,7 @@
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
-- 💬 Ask me about: **Technology || Technical Content Writing || Music || Reading || History**
+- 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
 
 - 🤓 Active User at: **GitHub || LinkedIn || Hackerrank**
 
