@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on: **Data Engineering | Data Analytics | Full-Stack Web Dev**
 
-- 🌱 I’m currently learning: **Big Data | Advanced SQL | Advanced Python | Data Engineering | Cloud**
+- 🌱 I’m currently learning: **Big Data | Automation | Advanced SQL | Advanced Python | Data Engineering | Cloud**
 
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 - 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
 
-- 🤓 Active User at: **GitHub || LinkedIn || Hackerrank**
+- 🤓 Active User at: **GitHub | LinkedIn | Hackerrank**
 
 - 📫 How to reach me:
 
