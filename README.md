@@ -21,6 +21,7 @@
 
 <br/>
 - 🙌 I'm currently open to: **Software Engineering | Data Engineering | Full-Stack Web Development Roles**
+
 <br/><br/>
 
 <div align="center">
