@@ -21,7 +21,7 @@
 
 <br/>
 
-- 🙌 I'm currently open to: **Software Engineering | Data Engineering | Full-Stack Web Development Roles**
+- 🙌 I'm currently open to: **Roles in Software Development (SDET and Automation Roles)**
 
 <br/><br/>
 
@@ -30,7 +30,7 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Data Engineering | Data Analytics | Full-Stack Web Dev**
+- 🔭 I’m currently working on: **Java | Selenium | TestNG**
 
 - 🌱 I’m currently learning: **Big Data | Automation | Advanced SQL | Advanced Python | Data Engineering | Cloud**
 
