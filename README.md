@@ -21,7 +21,7 @@
 
 <br/>
 
-- 🙌 I'm currently open to: **Roles in Software Development (SDET and Automation Roles)**
+- 🙌 I'm currently open to: **Software Developmennt Engineer in Test (SDET, Automation, CI/CD) roles**
 
 <br/><br/>
 
@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on: **Java | Selenium | TestNG**
 
-- 🌱 I’m currently learning: **Big Data | Automation | Advanced SQL | Advanced Python | Data Engineering | Cloud**
+- 🌱 I’m currently learning: **Big Data | Automation | Advanced SQL | Advanced Java / Python | AWS Cloud**
 
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 - 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
 
-- 🤓 Active User at: **GitHub | LinkedIn | Hackerrank**
+- 🤓 Active User at: **GitHub | LinkedIn**
 
 - 📫 How to reach me:
 
@@ -61,7 +61,7 @@
 
 - ⚡ Fun Facts: 
 
-    * *Besides programming, I'm a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/), a **Melophile** and love to cook.*
+    * *Besides programming, I've been a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/). I'm a **Melophile** for life and love to cook for my friends and family when I'm free.*
 
     * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
     
