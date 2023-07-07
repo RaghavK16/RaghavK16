@@ -21,7 +21,7 @@
 
 <br/>
 
-- 🙌 I'm currently open to: **Software Developmennt Engineer in Test (SDET, Automation, CI/CD) roles**
+- 🙌 I'm currently open to: **Software Development Engineer in Test (SDET, Automation, CI/CD) roles**
 
 <br/><br/>
 
@@ -30,7 +30,7 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Java | Selenium | TestNG**
+- 🔭 I’m currently working on: **Java | Selenium | TestNG | Maven | Rest Assured | TeamCity**
 
 - 🌱 I’m currently learning: **Big Data | Automation | Advanced SQL | Advanced Java / Python | AWS Cloud**
 
