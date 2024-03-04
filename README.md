@@ -30,9 +30,9 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Java | Selenium | TestNG | Maven | Rest Assured | TeamCity**
+- 🔭 I’m currently working on: **Java | Python | Selenium | TestNG | Maven | Rest Assured | TeamCity**
 
-- 🌱 I’m currently learning: **Big Data | Automation | Advanced SQL | Advanced Java / Python | AWS Cloud**
+- 🌱 I’m currently learning: **Automation | SQL | Java | Python | AWS**
 
 
 <div align="center">
