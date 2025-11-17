@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on: **Java | Python | Selenium | TestNG | Maven | Rest Assured | TeamCity**
 
-- 🌱 I’m currently learning: **Automation | SQL | Java | Python | AWS**
+- 🌱 I’m currently learning: **Automation | SQL | Java | Python | AWS | Playwright**
 
 
 <div align="center">
